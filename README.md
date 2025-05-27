@@ -172,5 +172,44 @@
         <h4>No-Show Policy</h4>
         <p>Guests will receive a check-in reminder call by 18:00 on the booking date. Unchecked guests by 10:00 the next day will be charged in full.</p>
     </div>
+
+    <!-- 版本控制 -->
+    <div class="section">
+        <h2>Version control</h2>
+        <p>Approval date: 21/5/2025</p>
+        <p>Review date: 23/5/2025</p>
+        <p>The next review date: 27/5/2025</p>
+    </div>
+
+    <!-- 版本历史表格 -->
+    <div class="section">
+        <h2>Version history</h2>
+        <table>
+            <tr>
+                <th>Version number</th>
+                <th>Author</th>
+                <th>Date of approval</th>
+                <th>Revision note</th>
+            </tr>
+            <tr>
+                <td>V1.0</td>
+                <td>王婉霖</td>
+                <td>21/5/2025</td>
+                <td>Initial release, covering cancellation procedures, timeframes, fee standards, and regulatory requirements.</td>
+            </tr>
+            <tr>
+                <td>V1.1</td>
+                <td>叶俊腾</td>
+                <td>23/5/2025</td>
+                <td>Optimized the definition of "force majeure"; supplemented documentation requirements for medical emergency. Added "Member Free Cancellation Waiver" clause; adjusted group booking cancellation application period to 30 days.</td>
+            </tr>
+            <tr>
+                <td>V1.2</td>
+                <td>王婉霖</td>
+                <td>24/5/2025</td>
+                <td>Add 1.4.1 and 1.4.2.</td>
+            </tr>
+        </table>
+    </div>
 </body>
 </html>
